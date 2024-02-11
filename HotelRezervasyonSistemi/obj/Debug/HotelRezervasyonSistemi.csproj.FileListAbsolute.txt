@@ -1,0 +1,8 @@
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\bin\Debug\HotelRezervasyonSistemi.exe.config
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\bin\Debug\HotelRezervasyonSistemi.exe
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\bin\Debug\HotelRezervasyonSistemi.pdb
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\HotelRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\HotelRezervasyonSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\HotelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\HotelRezervasyonSistemi.exe
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\HotelRezervasyonSistemi.pdb

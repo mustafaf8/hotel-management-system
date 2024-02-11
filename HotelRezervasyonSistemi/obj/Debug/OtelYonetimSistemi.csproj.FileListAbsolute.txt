@@ -1,0 +1,5 @@
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\OtelYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\OtelYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\OtelYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\HotelRezervasyonSistemi.exe
+C:\Users\musta\source\repos\HotelRezervasyonSistemi\obj\Debug\HotelRezervasyonSistemi.pdb
